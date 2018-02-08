@@ -1,0 +1,20 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "todo-list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rruizheng/todo-list-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rruizheng/todo-list-app/issues"
+  },
+  "homepage": "https://github.com/Rruizheng/todo-list-app#readme"
+}
